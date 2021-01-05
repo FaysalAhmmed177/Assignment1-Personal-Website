@@ -1,0 +1,77 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Oswald', sans-serif;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+h1{
+    font-size: 50px;
+    line-height: 20px;
+}
+.multitext-highlight{
+    color:darkslateblue;
+}
+#name-highlight{
+    color: #40E0D0;
+}
+.half-width{
+    width: 40%;
+    margin-left: 10%;
+    float: left;  
+}
+#img1{
+    width: 80%;
+    height: 50%;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,rgb(42, 153, 190),rgb(0, 174, 255),rgb(200,200,200));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#img2{
+    width: 100%;
+}
+#about-highlight{
+    color: lightseagreen;
+}
+#latest-highlight{
+    color: lightseagreen;
+}
+
+
+/*Project Part*/
+#Project-part{
+    background-color: whitesmoke;
+    height: 600px;
+    padding-bottom: 50px;
+}
+#project-header{
+    text-align: center;
+    margin-top: 10%;
+    padding-top: 100px;
+}
+.project-content img{
+    width: 100%; 
+    background-color: gray;
+}
+.project-content{
+    width: 20%;
+    height: 20%;
+    margin-left: 10%;
+    margin-top: 5%;
+    float: left;
+    box-shadow: 10px 10px white;
+    border-radius: 5px;
+    height: 100%;
+    background-color: lightseagreen;
+}
+
+/*Work Inquiry*/
