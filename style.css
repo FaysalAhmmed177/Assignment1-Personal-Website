@@ -89,7 +89,7 @@ h1{
 /*skill part*/
 .skills-part{
     background-color: whitesmoke;
-    height: 600px;
+    height: 700px;
     padding-bottom: 100px;
     text-align: center;
 }
@@ -98,12 +98,12 @@ h1{
     height: 150px;
 }
 .skills-content{
-    width: 20%;
-    margin-left: 3%;
-    margin-top: 2%;
-    margin-right: 2%;
+    width: 15%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
     float: left;
-    box-shadow: 10px 10px 30px lightcyan;
+    box-shadow: 10px 10px 30px lightgreen;
     border-radius: 10px;
     background-color:white;
 }
@@ -141,7 +141,8 @@ h1{
     margin-left: 5%;
     margin-top: 5%;
     float: left;
-    border-radius: 10px;
+    box-shadow: 10px 20px 30px lightgreen;
+    border-radius: 5px;
     background-color:white;
 }
 
