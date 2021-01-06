@@ -154,26 +154,29 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 50px;
-    
     margin-left: 10%;
     margin-right: 10%;
     
 }
-.inquiry-content, h2{
-    color: white;
-    
-}
-
-.inquiry-content{
-    width: 40%;
+.working-inquiry{
     float: left;
-    margin-left: 10%;
+    color: white;
     margin-top: 20%;
-} 
-
+    margin-left: 15%;
+}
+.button-inquiry{
+    float:right;
+    margin-top: 24%;
+    margin-right: 15%;
+}
     
 /*Footer*/
 footer{
     text-align: center;
     width: 100%;
+    margin-bottom: 50px;
+}
+.footer-img{
+    width: 2%;
+    height: 2%;
 }
