@@ -51,7 +51,7 @@ h1{
 #Project-part{
     background-color: whitesmoke;
     height: 600px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 #project-header{
     text-align: center;
@@ -60,18 +60,47 @@ h1{
 }
 .project-content img{
     width: 100%; 
-    background-color: gray;
+    
 }
 .project-content{
-    width: 20%;
-    height: 20%;
-    margin-left: 10%;
+    width: 25%;
+    height: 70%;
+    margin-left: 5%;
     margin-top: 5%;
     float: left;
-    box-shadow: 10px 10px white;
-    border-radius: 5px;
-    height: 100%;
-    background-color: lightseagreen;
+    border-radius: 10px;
+    background-color:white;
 }
 
 /*Work Inquiry*/
+#inquiry-part{
+
+    background-image: url("images/Group_33094_1.png");
+    margin-top: 10%;
+    margin-bottom: 5px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 20px;
+    height: 200px;
+}
+.inquiry-content, h2{
+    color: white;
+    
+}
+.inquiry-content{
+    width: 40%;
+    float: left;
+    height: 200px;
+    margin-left: 10%;
+    margin-top: 5%;
+} 
+#inquiry-button{
+    margin-top: 10%;
+}
+    
+    
+/*Footer*/
+footer{
+    text-align: center;
+    width: 100%;
+}
