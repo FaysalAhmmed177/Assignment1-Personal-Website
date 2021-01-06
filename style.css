@@ -150,13 +150,12 @@ h1{
 #inquiry-part{
 
     background-image: url("images/Group_33094_1.png");
+    background-size: 100%,100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50px;
+    margin: 10%;
     
-    margin-top: 10%;
-    margin-bottom: 5px;
-    margin-left: 15%;
-    margin-right: 15%;
-    border-radius: 20px;
-    height: 200px;
 }
 .inquiry-content, h2{
     color: white;
@@ -165,13 +164,10 @@ h1{
 .inquiry-content{
     width: 40%;
     float: left;
-    height: 200px;
     margin-left: 10%;
-    margin-top: 5%;
+    margin-top: 20%;
 } 
-#inquiry-button{
-    margin-top: 50px;
-}  
+
     
 /*Footer*/
 footer{
