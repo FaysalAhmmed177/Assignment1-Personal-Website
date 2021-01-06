@@ -154,13 +154,16 @@ h1{
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 50px;
-    margin: 10%;
+    
+    margin-left: 10%;
+    margin-right: 10%;
     
 }
 .inquiry-content, h2{
     color: white;
     
 }
+
 .inquiry-content{
     width: 40%;
     float: left;
